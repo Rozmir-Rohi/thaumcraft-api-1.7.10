@@ -5,7 +5,7 @@ This project is licensed under the MIT License.
 
 ## Credits & License Conditions:
 
-**Azanor** - Creator of Thaumcraft - provided Thaumcraft API 4.2.2.0 under the MIT License (https://choosealicense.com/licenses/mit/).
+**Azanor** - Creator of Thaumcraft - provided original Thaumcraft API 4.2.2.0 under the MIT License (https://choosealicense.com/licenses/mit/).
 
 ## Use of anatawa12's Fork of ForgeGradle 1.2 within Project:
 The source code of this project uses anatawa12's fork of ForgeGradle 1.2 as a library under the GNU Lesser General Public License v2.1 (https://choosealicense.com/licenses/lgpl-2.1/).
