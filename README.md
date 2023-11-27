@@ -1,11 +1,6 @@
 ## Thaumcraft API 1.7.10
 
-
-
-This is just to create an easy to access place for the api code. 
-
-I will still place the zips on the minecraft forum post for the "official" version of the api - the code here will usually be for dev versions.
-
+A ready to go version of the 1.7.10 Thaumcraft API for use in modding environments.
 
 ## Use of anatawa12's Fork of ForgeGradle 1.2 within Project:
 The source code of this project uses anatawa12's fork of ForgeGradle 1.2 as a library under the GNU Lesser General Public License v2.1 (https://choosealicense.com/licenses/lgpl-2.1/).
