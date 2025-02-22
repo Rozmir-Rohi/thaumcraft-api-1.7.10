@@ -1,4 +1,8 @@
 # Thaumcraft API 1.7.10
+**Project Status:** Finished & Finalized
+
+*The developer of this project is retired and does not respond to private messages or GitHub issues.*
+<br><br>
 
 A ready to go version of the 1.7.10 Thaumcraft API 4.2.2.0 for use in modding environments.
 This project is licensed under the MIT License.
